@@ -1,0 +1,54 @@
+*{margin: 0;padding: 0;}
+
+.fix{overflow: hidden;}
+.main{width: 960px;margin: 0 auto;}
+.banner{}
+.banner img{}
+.slider{width: 100%}
+.slider img{}
+.logos{}
+.logos h3{margin-left: 20px;
+margin-top: 10px;
+text-decoration: none;
+font-weight: normal;
+color: #939393;}
+.logos img{}
+
+.maincontent{margin-top: 10px;padding: 10px;}
+.content{width: 600px;float: left;}
+.content h1{margin-left: 32px;
+margin-bottom: 12px;
+font-size: 30px;
+color: #01709B
+}
+.content h3{    margin-left: 12px;
+    margin-bottom: 10px;
+    font-weight: normal;color: #473C44;
+}
+.content p{margin-left: 10px;
+margin-bottom: 10px;
+font-weight: normal;color: #8F92AB;}
+.sidebar{width: 260px;margin: 10px;background: #E4EEF4;border-radius: 10px;float: right;padding: 10px;}
+.sidebar h2{margin-left: 5px;color:#01709B }
+.sidebar p{    margin-top: 9px;
+    margin-left: 5px;color: #9BA3AD
+}
+
+.hr {width: }
+.hr img{margin-left: 10px;margin: 20px;}
+.promo{margin-top: 10px;margin-top: 20px;}
+.promo-left{float: left;margin-left: 80px;}
+.promo-left img {border-radius: 5px;border: 2px solid#CCCCC9;padding: 1px;background: #fff;margin-right: 20px;}
+.promo-left p{margin-left: 84px;
+margin-top: -74px;color:#9C969A;font-family: cursive;}
+.promo-right{float: right;margin-right: 80px;}
+.promo-right img{border-radius: 5px;border: 2px solid#CCCCC9;padding: 1px;background: #fff;margin-right: 20px;}
+.promo-right p{margin-left: 84px;
+margin-top: -74px;color:#9C969A;font-family: cursive;}
+.footer{background: url(images/footer-bg.jpg)repeat-x;margin-top: 40px;}
+.footer h3{text-align: center;color: #fff;margin-top: 30px;margin-bottom: 5px;}
+.footer ul{margin: 0;padding: 0;text-align: center;}
+.footer ul li{list-style: none;display: inline-block;margin: 5px;}
+.footer h4{text-align: center;color: #fff;margin-top: 55px;margin-bottom: 10px}
+.{}
+.{}
